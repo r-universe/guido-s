@@ -1,17 +1,5 @@
 [
   {
-    "package": "diagmeta",
-    "oncran": true
-  },
-  {
-    "package": "meta",
-    "oncran": true
-  },
-  {
-    "package": "metasens",
-    "oncran": true
-  },
-  {
     "package": "netmeta",
     "oncran": true
   }
