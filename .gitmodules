@@ -8,14 +8,14 @@
 	url = https://github.com/guido-s/diagmeta
 	shallow = true
 	registered = true
-[submodule "meta"]
-	path = meta
-	url = https://github.com/guido-s/meta
-	shallow = true
-	registered = true
 [submodule "metasens"]
 	path = metasens
 	url = https://github.com/guido-s/metasens
+	shallow = true
+	registered = true
+[submodule "meta"]
+	path = meta
+	url = https://github.com/guido-s/meta
 	shallow = true
 	registered = true
 [submodule "netmeta"]

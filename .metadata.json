@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "meta",
+    "package": "metasens",
     "oncran": true
   },
   {
-    "package": "metasens",
+    "package": "meta",
     "oncran": true
   },
   {
