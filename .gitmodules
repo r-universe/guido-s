@@ -8,6 +8,9 @@
 [submodule "meta"]
 	path = meta
 	url = https://github.com/guido-s/meta
+[submodule "metabook"]
+	path = metabook
+	url = https://github.com/guido-s/metabook
 [submodule "metasens"]
 	path = metasens
 	url = https://github.com/guido-s/metasens
